@@ -1,4 +1,4 @@
-# Pcsx4all for GameShell
+# Pcsx for GameShell
 
 Pcsx emulator for GameShell 
 
